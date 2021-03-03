@@ -8,4 +8,10 @@ This project is a simple aotomated complaint bot programming. This bot checks ou
 - Requests
 
 ## Preview
-![]()
+![](speed 12.png)
+
+**Speed Testing Preview**
+
+![](tweet.png)
+
+**Sending Tweet Preview**
