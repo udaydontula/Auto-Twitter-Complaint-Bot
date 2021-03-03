@@ -10,6 +10,8 @@ This project is a simple aotomated complaint bot programming. This bot checks ou
 ## Preview
 ![](speed%2012.png)
 
+![](speeeed.png)
+
 **Speed Testing Preview**
 
 ![](tweet.png)
