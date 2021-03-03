@@ -8,7 +8,7 @@ This project is a simple aotomated complaint bot programming. This bot checks ou
 - Requests
 
 ## Preview
-![](speed 12.png)
+![](speed%2012.png)
 
 **Speed Testing Preview**
 
